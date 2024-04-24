@@ -17,4 +17,4 @@ tiktok-tts in Unity, based on https://github.com/Steve0929/tiktok-tts
 - https://soundcloud.com/user-689598301/tiktok-tts-sample
 
 ### BLOG POST
-- (todo)
+- https://unitycoder.com/blog/2024/04/24/use-tiktok-tts-in-unity-with-webrequest/
